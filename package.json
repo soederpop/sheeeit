@@ -1,0 +1,22 @@
+{
+  "name": "sheeeit",
+  "version": "0.0.1",
+  "description": "power any backend application with spreadsheets? sheeeit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spreadsheets",
+    "google sheets",
+    "excel"
+  ],
+  "author": "Jon Soeder <jon@chicago.com>",
+  "license": "MIT",
+  "bin": {
+    "sheeeit": "./sheeeit.js",
+    "sheeeeit": "./sheeeit.js",
+    "sheeeeeit": "./sheeeit.js",
+    "sheeeeeeit": "./sheeeit.js"
+  }
+}
